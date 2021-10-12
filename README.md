@@ -7,6 +7,7 @@
 **Server :** 
 
 $gcc -o s select.c
+
 $./s port_no
 
 **Client  :**
